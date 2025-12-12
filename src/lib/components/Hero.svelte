@@ -10,7 +10,7 @@
     <p class="text-gray-500 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light">
       Verlo uses AI to extract data from documents, take meeting notes, and automatically fill PDF forms—saving your advisors hours every week.
     </p>
-    <a href="#" class="inline-flex items-center px-6 py-3 bg-[var(--color-primary-blue)] text-white font-medium rounded hover:opacity-90 transition-opacity">
+    <a href="#" class="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded transition-colors">
       Schedule a demo <span class="ml-2">→</span>
     </a>
   </div>

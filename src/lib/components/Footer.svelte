@@ -8,7 +8,7 @@
             Ready to automate your intake?
         </h2>
         
-        <a href="#" class="inline-flex items-center px-6 py-3 bg-gray-800 border border-gray-700 text-white font-medium rounded hover:bg-gray-700 transition-colors">
+        <a href="#" class="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded transition-colors">
             Schedule a demo <span class="ml-2">→</span>
         </a>
     </div>
@@ -41,9 +41,9 @@
             </div>
             
             <div class="flex space-x-4">
-                <a href="#" class="hover:text-gray-600">Privacy Policy</a>
+                <a href="#" class="hover:text-primary-600 transition-colors">Privacy Policy</a>
                 <span>•</span>
-                <a href="#" class="hover:text-gray-600">Terms of Service</a>
+                <a href="#" class="hover:text-primary-600 transition-colors">Terms of Service</a>
             </div>
         </div>
     </div>

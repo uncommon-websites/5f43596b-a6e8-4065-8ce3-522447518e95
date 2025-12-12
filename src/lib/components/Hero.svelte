@@ -5,13 +5,13 @@
 <SectionWrapper withBorderBottom={true} className="py-20 md:py-24">
   <div class="px-4 md:px-12 max-w-4xl mx-auto text-center">
     <h1 class="font-serif text-5xl md:text-7xl text-gray-900 mb-6 leading-tight">
-      Unlock your advice <br/> firm's potential
+      Automate client intake <br/> and paperwork
     </h1>
     <p class="text-gray-500 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light">
-      Enhance client experience and boost your team's productivity. Augment your current processes and empower your team to deliver excellence at scale.
+      Verlo uses AI to extract data from documents, take meeting notes, and automatically fill PDF forms—saving your advisors hours every week.
     </p>
     <a href="#" class="inline-flex items-center px-6 py-3 bg-[var(--color-primary-blue)] text-white font-medium rounded hover:opacity-90 transition-opacity">
-      Get in touch with us <span class="ml-2">→</span>
+      Schedule a demo <span class="ml-2">→</span>
     </a>
   </div>
 
@@ -30,7 +30,7 @@
           <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24">
             <path d="M8 5v14l11-7z" />
           </svg>
-          <span class="text-sm font-medium">Watch 'The state of AI in advice' film</span>
+          <span class="text-sm font-medium">See Verlo in action (2 min)</span>
         </button>
       </div>
     </div>

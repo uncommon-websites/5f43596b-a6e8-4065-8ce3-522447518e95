@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-12T20:14:21.907Z -->
+<!-- Updated: 2025-12-12T20:30:42.078Z -->
 
 # Current Todo List State
 
@@ -16,3 +16,8 @@
 - [x] Update gray/neutral colors to use compliance zinc palette
 - [x] Verify color contrast and accessibility
 - [x] Run comprehensive error check and fix all issues
+- [x] Update app.html to load Funnel Sans font from Google Fonts
+- [x] Update app.css to use Funnel Sans as primary sans-serif font
+- [x] Update Navbar.svelte to replace text logo with SVG logo
+- [x] Run comprehensive error check and fix all issues
+- [x] Final design system compliance check

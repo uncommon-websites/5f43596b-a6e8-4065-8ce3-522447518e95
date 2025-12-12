@@ -7,7 +7,7 @@
     <div class="text-xs font-mono uppercase tracking-widest text-gray-500 mb-8">
       Built for financial advisors
     </div>
-    <h2 class="font-serif text-3xl md:text-5xl leading-snug text-gray-200">
+    <h2 class="font-sans text-3xl md:text-5xl leading-snug text-gray-200">
       <span class="text-gray-900">Stop wasting hours on data entry and form filling.</span> Verlo's AI extracts client information from any document and automatically populates your forms—so you can focus on advice, not admin.
     </h2>
   </div>

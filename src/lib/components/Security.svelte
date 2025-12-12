@@ -6,7 +6,7 @@
   <div class="px-4 md:px-12 flex flex-col md:flex-row items-center justify-between gap-12">
     <!-- Text -->
     <div class="w-full md:w-1/2">
-      <h2 class="font-serif text-3xl md:text-4xl text-gray-900 mb-6">
+      <h2 class="font-sans text-3xl md:text-4xl text-gray-900 mb-6">
         Bank-level security for your client data
       </h2>
       <p class="text-gray-500 mb-2">Your client data is encrypted and secure.</p>

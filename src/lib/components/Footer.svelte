@@ -4,7 +4,7 @@
 
 <div class="bg-black text-white py-24 px-4 md:px-8 max-w-[1400px] mx-auto relative">
     <div class="px-4 md:px-12 flex flex-col md:flex-row items-center justify-between gap-8">
-        <h2 class="font-serif text-3xl md:text-4xl">
+        <h2 class="font-sans text-3xl md:text-4xl">
             Ready to automate your intake?
         </h2>
         

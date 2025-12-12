@@ -4,7 +4,7 @@
 
 <SectionWrapper withBorderBottom={true} className="py-24">
   <div class="px-4 md:px-12 mb-16 text-center">
-    <h2 class="font-serif text-4xl text-gray-900">Loved by financial advisors</h2>
+    <h2 class="font-sans text-4xl text-gray-900">Loved by financial advisors</h2>
   </div>
 
   <div class="px-4 md:px-12 max-w-5xl mx-auto">
@@ -30,7 +30,7 @@
         </blockquote>
         
         <div class="border-t border-gray-200 border-dashed pt-6">
-          <div class="font-serif text-lg font-bold text-gray-900">David Martinez</div>
+          <div class="font-sans text-lg font-bold text-gray-900">David Martinez</div>
           <div class="text-sm text-gray-500">Senior Financial Advisor</div>
           <div class="text-sm text-gray-500">Summit Wealth Management</div>
         </div>

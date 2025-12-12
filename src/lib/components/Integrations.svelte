@@ -7,7 +7,7 @@
     <div class="text-xs font-mono uppercase tracking-widest text-gray-500 mb-4">
       Integrations
     </div>
-    <h2 class="font-serif text-4xl text-gray-900 mb-6">
+    <h2 class="font-sans text-4xl text-gray-900 mb-6">
       Works with your existing tools
     </h2>
     <p class="text-gray-500 leading-relaxed max-w-2xl mx-auto">
@@ -34,7 +34,7 @@
 
        <!-- Center Logo (Verlo) -->
       <div class="w-24 h-24 bg-[var(--color-primary-700)] rounded-full shadow-lg border-4 border-white flex items-center justify-center p-2 relative">
-        <div class="text-white font-serif font-bold text-sm">Verlo</div>
+        <div class="text-white font-sans font-bold text-sm">Verlo</div>
         <!-- Orbit ring visual -->
         <div class="absolute inset-0 rounded-full border border-[var(--color-primary-500)] scale-110 opacity-50"></div>
       </div>

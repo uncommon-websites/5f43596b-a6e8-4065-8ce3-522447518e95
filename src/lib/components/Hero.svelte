@@ -4,7 +4,7 @@
 
 <SectionWrapper withBorderBottom={true} className="py-20 md:py-24">
   <div class="px-4 md:px-12 max-w-4xl mx-auto text-center">
-    <h1 class="font-serif text-5xl md:text-7xl text-gray-900 mb-6 leading-tight">
+    <h1 class="font-sans text-5xl md:text-7xl text-gray-900 mb-6 leading-tight">
       Automate client intake <br/> and paperwork
     </h1>
     <p class="text-gray-500 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light">

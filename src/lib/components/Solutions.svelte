@@ -6,7 +6,7 @@
 <SectionWrapper withBorderBottom={true} className="">
   <div class="px-4 md:px-12">
     <div class="py-16 text-center">
-      <h2 class="font-serif text-4xl text-gray-900">Our solutions</h2>
+      <h2 class="font-sans text-4xl text-gray-900">Our solutions</h2>
     </div>
 
     <!-- Block 1 -->
@@ -62,7 +62,7 @@
             </div>
             <div class="text-xs text-gray-500">Sarah Johnson • New Client</div>
         </div>
-        <h4 class="font-serif text-xl mb-4">Account Application Form</h4>
+        <h4 class="font-sans text-xl mb-4">Account Application Form</h4>
         <div class="space-y-3 mb-6">
             <div class="flex justify-between text-xs">
                 <span class="text-gray-500">Name:</span>

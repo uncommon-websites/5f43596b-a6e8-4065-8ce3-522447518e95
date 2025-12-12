@@ -9,12 +9,12 @@
         <!-- Wealth Partners -->
         <div class="h-6 font-bold text-lg tracking-tight">WEALTH PARTNERS</div>
         <!-- Summit Advisory -->
-        <div class="h-8 flex flex-col leading-none text-xs font-serif uppercase tracking-widest">
+        <div class="h-8 flex flex-col leading-none text-xs font-sans uppercase tracking-widest">
             <span>Summit</span>
             <span>Advisory</span>
         </div>
         <!-- Horizon -->
-        <div class="h-6 font-bold text-lg lowercase italic font-serif">horizon</div>
+        <div class="h-6 font-bold text-lg lowercase italic font-sans">horizon</div>
         <!-- Apex Financial -->
         <div class="h-6 font-medium text-lg flex items-center gap-1">
             <span class="font-bold">APEX</span>

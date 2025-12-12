@@ -13,7 +13,7 @@
     <div class="text-xs font-mono uppercase tracking-widest text-gray-500 mb-4">
       {label}
     </div>
-    <h3 class="font-serif text-4xl text-gray-900 mb-6">
+    <h3 class="font-sans text-4xl text-gray-900 mb-6">
       {title}
     </h3>
     <p class="text-gray-500 leading-relaxed mb-8 max-w-md">
